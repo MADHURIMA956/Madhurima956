@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Madhurima from India.I am an aspiring I am an aspiring Full-Stack Web Developer. Currently, I have done 7 months Full-Stack Web Development Course from Masai School.I am looking for a role in an enthusiastic work environment, to enhance the knowledge and skills learned and apply technical skills to accomplish organizational goals.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MADHURIMA956)](https://github.com/anuraghazra/github-readme-stats)
