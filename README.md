@@ -1,7 +1,6 @@
 # Hi there 👋
 
-## I'm Madhurima Banerjee from India.
-   I am an aspiring I am an aspiring Full-Stack Web Developer.
+### I'm Madhurima Banerjee from India.I am an aspiring Full-Stack Web Developer.
 
 🌱 I’m currently doing 7 months Full-Stack Web Development Course from Masai School.
 
