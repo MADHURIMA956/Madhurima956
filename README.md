@@ -30,12 +30,18 @@ Here are some ideas to get you started:
 ## My Portfolio's Link :)
 https://portfolio-madhurima-banerjee.vercel.app
 
+## My Resume's Link :)
+https://drive.google.com/file/d/1zqmzEQiPQ2DgSd9WPnmrDNyIBZt5D6zM/view
+
 ## Examples Of My Projects
 
 1. Walmart-Clone :
     website link:-> https://madhurima956.github.io/walmart-clone.github.io/walmart/index001.html
 2. Intern Theory Clone : 
     website link:-> https://intern-theory-clone.herokuapp.com/InternTheory
+3. Quora Clone : 
+    website link:-> https://quora-roan.vercel.app/   
+ 
 
 ## 📫 How to reach me:
   1. LinkedIn :-> https://www.linkedin.com/in/madhurima-banerjee-65415a191
