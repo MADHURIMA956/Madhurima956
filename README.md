@@ -33,7 +33,7 @@ https://portfolio-madhurima-banerjee.vercel.app
 ## My Resume's Link :)
 https://drive.google.com/file/d/1zqmzEQiPQ2DgSd9WPnmrDNyIBZt5D6zM/view
 
-## Examples Of My Projects
+## Some Of My Projects
 
 1. Walmart-Clone :
     website link:-> https://madhurima956.github.io/walmart-clone.github.io/walmart/index001.html
