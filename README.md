@@ -1,10 +1,9 @@
 # Hi there 👋
 
-### I'm Madhurima Banerjee from India.I am an aspiring Full-Stack Web Developer.
+### I'm Madhurima Banerjee from India.
 
-🌱 I’m currently doing 7 months Full-Stack Web Development Course from Masai School.
+🌱 I’m currently working on Indus Net Technologies as a Associate Software Engineer.
 
-👯 I am looking for a role in an enthusiastic work environment, to enhance the knowledge and skills learned and apply technical skills to accomplish organizational goals.
 <!--
 **MADHURIMA956/Madhurima956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
